@@ -30,7 +30,7 @@ jsonschema==4.6.0
 lazy-object-proxy==1.7.1
 linkify-it-py==2.0.0
 lxml==4.9.1
-markdown-it-py==2.0.1
+markdown-it-py==2.2.0
 markupsafe==2.0.1
 mccabe==0.6.1
 mdit-py-plugins==0.3.0
